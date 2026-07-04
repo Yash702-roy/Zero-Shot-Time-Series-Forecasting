@@ -146,6 +146,21 @@ Below are the benchmark metrics obtained on the `ETTh1` dataset (Oil Temperature
 
 ---
 
+Screenshots
+<img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/67a3935e-2e81-454f-994a-be4316aa07c9" />
+
+
+## Tech Stack
+
+- Python
+- OpenRouter API
+- Large Language Models
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- Streamlit
+
 ## 🔬 Interview Guide & Explanation
 If asked to explain this project during an internship interview, emphasize these points:
 * **The Core Innovation**: "Instead of designing complex architectural layers, LLMTIME leverages the extensive pattern-extrapolation abilities of Large Language Models. By mapping continuous floats to standardized space-separated text digits, we allow the self-attention mechanism to operate directly on numerical patterns without vocabulary distortion."
