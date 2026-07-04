@@ -1,0 +1,26 @@
+# Configuration file for LLMTIME zero-shot forecasting project
+model:
+  name: "google/gemma-4-31b-it:free"
+  temperature: 0.7
+  top_p: 0.9
+  max_tokens: 128
+
+data:
+  filepath: "data/ETTh1.csv"
+  timestamp_col: "date"
+  target_col: "OT"
+  test_size: 24
+  fill_method: "interpolate"
+
+scaling:
+  method: "percentile"
+  low_percentile: 5.0
+  high_percentile: 95.0
+
+serialization:
+  precision: 2
+  separator: ", "
+
+forecasting:
+  num_samples: 20
+  max_workers: 5
