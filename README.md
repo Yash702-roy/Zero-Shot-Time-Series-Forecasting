@@ -152,15 +152,8 @@ Screenshots
 Dashboard
 <img width="1365" height="637" alt="Screenshot 2026-07-04 165432" src="https://github.com/user-attachments/assets/1628a1e4-8b0b-4906-820b-cfd7e51b14e6" />
 
-output metrices
-{
-    "MAE": 0.7985,
-    "RMSE": 0.8632,
-    "MAPE": 8.4006,
-    "sMAPE": 8.0079,
-    "MedAE": 0.7491,
-    "runtime_seconds": 395.15
-}
+<img width="240" height="191" alt="image" src="https://github.com/user-attachments/assets/2425c530-d56a-41fe-8106-6bce509f588e" />
+
 
 
 ## Tech Stack
