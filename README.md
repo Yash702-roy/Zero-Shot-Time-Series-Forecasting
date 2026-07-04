@@ -149,6 +149,19 @@ Below are the benchmark metrics obtained on the `ETTh1` dataset (Oil Temperature
 Screenshots
 <img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/67a3935e-2e81-454f-994a-be4316aa07c9" />
 
+Dashboard
+<img width="1365" height="637" alt="Screenshot 2026-07-04 165432" src="https://github.com/user-attachments/assets/1628a1e4-8b0b-4906-820b-cfd7e51b14e6" />
+
+output metrices
+{
+    "MAE": 0.7985,
+    "RMSE": 0.8632,
+    "MAPE": 8.4006,
+    "sMAPE": 8.0079,
+    "MedAE": 0.7491,
+    "runtime_seconds": 395.15
+}
+
 
 ## Tech Stack
 
