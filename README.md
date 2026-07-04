@@ -1,6 +1,6 @@
 # Zero-Shot Time Series Forecasting using LLMs via OpenRouter
 
-An internship-ready, research-grade implementation of the **LLMTIME** methodology (from *"Large Language Models are Zero-Shot Time Series Forecasters"* by Gruver et al.), designed for zero-shot time series forecasting using open weights models (e.g. Google Gemma, Qwen, DeepSeek) through the OpenRouter API.
+An internship-ready,A modular implementation inspired by the LLMTIME methodology. (from *"Large Language Models are Zero-Shot Time Series Forecasters"* by Gruver et al.), designed for zero-shot time series forecasting using open weights models (e.g. Google Gemma, Qwen, DeepSeek) through the OpenRouter API.
 
 ---
 
